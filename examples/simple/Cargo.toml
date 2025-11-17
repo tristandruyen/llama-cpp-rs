@@ -19,6 +19,7 @@ cuda = ["llama-cpp-2/cuda"]
 metal = ["llama-cpp-2/metal"]
 native = ["llama-cpp-2/native"]
 vulkan = ["llama-cpp-2/vulkan"]
+hip = ["llama-cpp-2/hip"]
 
 [lints]
 workspace = true
